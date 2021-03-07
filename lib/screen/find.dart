@@ -13,7 +13,7 @@ class FindAnimal extends StatefulWidget {
 
 class _FindAnimalState extends State<FindAnimal> {
   ScrollController _scrollController;
-  List<Animal> animalList;
+  List<Animal> _animalList;
   int _pageNo = 1;
   int _numOfPages = 30;
   bool isLoad = false;
@@ -24,7 +24,7 @@ class _FindAnimalState extends State<FindAnimal> {
   @override
   void initState() {
     super.initState();
-    animalList = new List<Animal>();
+    _animalList = new List<Animal>();
     _scrollController = new ScrollController();
     _scrollController.addListener(_scrollListener);
     _requestAnimalList();
@@ -45,7 +45,7 @@ class _FindAnimalState extends State<FindAnimal> {
           onRefresh: _refreshList,
           child: ListView.builder(
               controller: _scrollController,
-              itemCount: (animalList == null) ? 0 : animalList.length,
+              itemCount: (_animalList == null) ? 0 : _animalList.length,
               itemBuilder: (BuildContext context, int index) {
                 return _buildListItem(context, index);
               })),
@@ -53,7 +53,7 @@ class _FindAnimalState extends State<FindAnimal> {
   }
 
   Widget _buildListItem(BuildContext context, int index) {
-    final animal = animalList[index];
+    final animal = _animalList[index];
     return Padding(
       padding: EdgeInsets.only(
           left: 10.0, top: _getTopMargin(index), right: 10.0, bottom: 10.0),
@@ -116,7 +116,6 @@ class _FindAnimalState extends State<FindAnimal> {
   }
 
   Future<void> _requestAnimalList() async {
-    print('api load : $isLoad + $_pageNo');
     String url = 'http://openapi.animal.go.kr/openapi/service/rest/abandonmentPublicSrvc/abandonmentPublic'
         '?ServiceKey=${Constants.SERVICE_KEY}&pageNo=$_pageNo&numOfRows=$_numOfPages';
 
@@ -130,7 +129,7 @@ class _FindAnimalState extends State<FindAnimal> {
         var data = json.decode(jsonData);
         var animalResponse = AnimalResponse.fromJson(data['response']['body']);
         setState(() {
-          animalList.addAll(animalResponse.items);
+          _animalList.addAll(animalResponse.items);
           isLoad = false;
         });
       }
@@ -153,8 +152,9 @@ class _FindAnimalState extends State<FindAnimal> {
 
   void _initList() {
     setState(() {
+      isLoad = false;
       _pageNo = 1;
-      if (animalList != null) animalList.clear();
+      if (_animalList != null) _animalList.clear();
     });
   }
 

@@ -12,6 +12,11 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="flutter_pet"
         android:icon="@mipmap/ic_launcher">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="ssssssssssss"/>
+
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

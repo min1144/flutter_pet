@@ -1,0 +1,304 @@
+{
+  "hospitals": [
+    {
+      "address": "서울특별시 성북구 동선동 동소문로 73",
+      "id": 1,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPPxIQ3s0waNGr164uqRkBK6slnS228kLA3EYgO=w408-h304-k-no",
+      "lat": 37.59350328830562,
+      "lng": 127.01347897731702,
+      "name": "VIP동물의료센터",
+      "phone": "+8229530075",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 중구 묵정동 32-1",
+      "id": 2,
+      "image": "https://geo3.ggpht.com/cbk?panoid=1BlzRBiXs0i7hq0Z7ddYxQ&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=228.46878&pitch=0&thumbfov=100",
+      "lat": 37.56520629091679,
+      "lng": 127.00060437374285,
+      "name": "황동물병원",
+      "phone": "+82222780075",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 중구 필동2가 53",
+      "id": 3,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipMPwdabA9aw2dIh4lgCxdOkuGwn2SFTmEbsClzQ=w426-h240-k-no",
+      "lat": 37.563981658885055,
+      "lng": 126.99734280750407,
+      "name": "윤신근애견종합병원",
+      "phone": "+82222721234",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 마포구 성산동 17-23번지",
+      "id": 4,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOEsVaxZn7myF73mNasNwPge7qdT50sDOxxH5jW=w426-h240-k-no",
+      "lat": 37.5637095156996,
+      "lng": 126.91700528120121,
+      "name": "우리동생동물병원",
+      "phone": "+8223353333",
+      "site": "http://mapowithpet.com"
+    },
+    {
+      "address": "서울특별시 마포구 망원1동 월드컵로 73",
+      "id": 5,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipNH0Q2doXKcow11ITzcR8SHCV1EGGYSobUTTGDV=w408-h544-k-no",
+      "lat": 37.55840252487996,
+      "lng": 126.91048214872364,
+      "name": "동물사랑동물병원",
+      "phone": "+82231420008",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 마포구 서교동 395-44",
+      "id": 6,
+      "image": "https://geo3.ggpht.com/cbk?panoid=_-d6CJjdBCknfhCBfrmUOQ&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=127.315216&pitch=0&thumbfov=100",
+      "lat": 37.55295906470106,
+      "lng": 126.9173486039632,
+      "name": "뉴욕동물병원",
+      "phone": "+8223339558",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 중구 신당동 373-64",
+      "id": 7,
+      "image": "https://geo0.ggpht.com/cbk?panoid=mb20gFwf-i79peYi9bu9kw&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=83.02155&pitch=0&thumbfov=100",
+      "lat": 37.55772211410327,
+      "lng": 127.01193402488812,
+      "name": "웰펫동물병원",
+      "phone": "+82222567582",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 중구 신당2동 다산로 107",
+      "id": 8,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipP3zY4C2Afl5ACJgDZ7QO-FNa2iIaYFqxXk1was=w408-h306-k-no",
+      "lat": 37.556089102889686,
+      "lng": 127.0088441200303,
+      "name": "미래지동물의료센터",
+      "phone": "+82222337574",
+      "site": "https://blog.naver.com/miraeji_amc"
+    },
+    {
+      "address": "서울특별시 중구 신당동 844번지 남산타운남산타운 동6동 2호",
+      "id": 9,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPOAe9i_MGK6pYoYA4o7jBwlbLn7LCeo6SCviGr=w408-h544-k-no",
+      "lat": 37.55091766462091,
+      "lng": 127.0088441200303,
+      "name": "그녀의동물병원",
+      "phone": "+8250713427583",
+      "site": "http://www.vetty.co.kr"
+    },
+    {
+      "address": "서울특별시 성동구 독서당로 223 래미안옥수리버젠 상가동 1층",
+      "id": 10,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPcVIAiGdKt7nzYD9tF00QNTgG3iVl3xLkHnfwZ=w408-h544-k-no",
+      "lat": 37.54615418032355,
+      "lng": 127.01571057526988,
+      "name": "오석헌동물병원",
+      "phone": "+82264020301",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 용산구 한남동",
+      "id": 11,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipMa9TxyQ_s9SAw7fTW3xDM9q7ggbOl1A1ZmpGNA=w408-h306-k-no",
+      "lat": 37.53567344280079,
+      "lng": 127.00317929408234,
+      "name": "동물병원메이",
+      "phone": "+8227974408",
+      "site": "http://www.mayah.co.kr"
+    },
+    {
+      "address": "서울특별시 강남구 논현동 59-5",
+      "id": 12,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipOkDchj9DbtWGHoSNp9So0CaUqowgiA4C3tI4l4=w408-h272-k-no",
+      "lat": 37.52205989674613,
+      "lng": 127.02841351689804,
+      "name": "신사동물병원(구 24시동물병원)",
+      "phone": "+8225494505",
+      "site": "http://www.sinsapethospital.co.kr"
+    },
+    {
+      "address": "서울특별시 강남구 삼성동 70-6",
+      "id": 13,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipMMuogYNnMpDkkPcbVbVZHTE9BqMHeVy1Mtpylo=w408-h552-k-no",
+      "lat": 37.51851996790951,
+      "lng": 127.05278943299851,
+      "name": "청담우리동물병원",
+      "phone": "+8225417515",
+      "site": "http://www.chungdamah.co.kr"
+    },
+    {
+      "address": "서울특별시 강남구 역삼동 725-15",
+      "id": 14,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPQvVKzQAJaGIyVgnCk4QPUnoJVw8Ldz6UPyl7T=w408-h272-k-no",
+      "lat": 37.50204347434744,
+      "lng": 127.03939984528134,
+      "name": "고양이병원 백산동물병원",
+      "phone": "+8216445653",
+      "site": "http://www.thecatclinic.co.kr"
+    },
+    {
+      "address": "서울특별시 강남구 대치4동 선릉로 338",
+      "id": 15,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPUYtBTi1GDQyjqm8QnyAl91DrP6dvTFUUET-_w=w426-h240-k-no",
+      "lat": 37.5025882099483,
+      "lng": 127.0512444805696,
+      "name": "24시OK동물병원",
+      "phone": "+8225697582",
+      "site": "http://www.gaefun.com/hospital/all/180"
+    },
+    {
+      "address": "서울특별시 강남구 역삼1동 도곡로 189",
+      "id": 16,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipMiuDHd5cD3olWS0bGv3D-Hhy3w7w7mihDJ2fW1=w408-h544-k-no",
+      "lat": 37.495370140700665,
+      "lng": 127.0402581521863,
+      "name": "예은동물병원",
+      "phone": "+8225295575",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 강남구 도곡동 180-31",
+      "id": 17,
+      "image": "https://geo2.ggpht.com/cbk?panoid=B4l71pCeAWufeF5ivCg9mw&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=317.71732&pitch=0&thumbfov=100",
+      "lat": 37.48883241930641,
+      "lng": 127.04626630052091,
+      "name": "우리집동물병원",
+      "phone": "+8225728998",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 서초구 바우뫼로 211 송지 빌딩 1층",
+      "id": 18,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPr4RII3ITwHKJNDcgr7Ei5WJirLH2-XY0oXjBF=w408-h306-k-no",
+      "lat": 37.48352009932026,
+      "lng": 127.04231808875815,
+      "name": "에이블동물병원",
+      "phone": "+82220581882",
+      "site": "https://ableah.com"
+    },
+    {
+      "address": "서울특별시 서초구 서초2동 1343-1",
+      "id": 19,
+      "image": "https://geo2.ggpht.com/cbk?panoid=L5rVl3BM9J5GFePrPo8Szg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=130.60483&pitch=0&thumbfov=100",
+      "lat": 37.48910483578955,
+      "lng": 127.02583859618322,
+      "name": "메디펫동물병원",
+      "phone": "+8225867501",
+      "site": "http://www.medipet-vh.com"
+    },
+    {
+      "address": "서울특별시 서초구 서초동 효령로 214 2층",
+      "id": 20,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipMzWa_s-o_AxEaTkRoTVdClef1rveuBvMbknM9u=w408-h567-k-no",
+      "lat": 37.48529091462154,
+      "lng": 127.00781415117936,
+      "name": "다니엘동물병원",
+      "phone": "+8225850087",
+      "site": "https://danielah.modoo.at"
+    },
+    {
+      "address": "서울특별시 동작구 상도2동 상도로 214",
+      "id": 21,
+      "image": "https://geo2.ggpht.com/cbk?panoid=hL4kqhCC1fJK3vS4t-SYBA&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=195.41005&pitch=0&thumbfov=100",
+      "lat": 37.5073544769226,
+      "lng": 126.94223950364159,
+      "name": "유케어 종합동물병원",
+      "phone": "+82232808275",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 관악구 봉천동 관악로29길 3",
+      "id": 22,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipNjoX01WZ6eCXMyEu_b99SuAk9Rv7TckxYOT4rb=w408-h272-k-no",
+      "lat": 37.48951345890055,
+      "lng": 126.95597241542832,
+      "name": "로잔동물의료센터",
+      "phone": "+8228727588",
+      "site": "https://lvmc.modoo.at"
+    },
+    {
+      "address": "서울특별시 송파구 송파2동 164-7",
+      "id": 23,
+      "image": "https://geo2.ggpht.com/cbk?panoid=8LGh_ckNdmt6mzjLRVuCGA&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=33.288425&pitch=0&thumbfov=100",
+      "lat": 37.50612889481829,
+      "lng": 127.11836407783628,
+      "name": "송이동물병원",
+      "phone": "+8224157114",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 강동구 성내동 550-2",
+      "id": 24,
+      "image": "https://geo2.ggpht.com/cbk?panoid=HKdjCYNQ9tn_TMdQeluBfQ&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=201.49605&pitch=0&thumbfov=100",
+      "lat": 37.53254254726706,
+      "lng": 127.12299893512295,
+      "name": "가람동물병원",
+      "phone": "+8224845502",
+      "site": "https://blog.naver.com/garamah?proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F"
+    },
+    {
+      "address": "서울특별시 강동구 성내동 449-13",
+      "id": 25,
+      "image": "https://geo3.ggpht.com/cbk?panoid=4zuMqdlnA6oSbyHid4xDlg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=225.4506&pitch=0&thumbfov=100",
+      "lat": 37.524238231355426,
+      "lng": 127.01347897731702,
+      "name": "페토피아동물병원",
+      "phone": "+8224718275",
+      "site": "http://petopi.co.kr/?page_id=26"
+    },
+    {
+      "address": "서울특별시 성북구 동선동 동소문로 73",
+      "id": 26,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipPPxIQ3s0waNGr164uqRkBK6slnS228kLA3EYgO=w408-h304-k-no",
+      "lat": 37.59350328830562,
+      "lng": 127.01347897731702,
+      "name": "VIP동물의료센터",
+      "phone": "+8229530075",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 금천구 독산1동 시흥대로 483",
+      "id": 27,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipM1XDyoJ9GRWzEHwkeKN8B99638ZHMxE1wK8ezt=w493-h240-k-no",
+      "lat": 37.47886707812532,
+      "lng": 126.89868129911862,
+      "name": "글로리동물병원",
+      "phone": "",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 영등포구 대림동 979-3",
+      "id": 28,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipP-RWc0c38_3lwCEcmO6rufJJ2NID3D_mvf9FzF=w426-h240-k-no",
+      "lat": 37.49221609810692,
+      "lng": 126.90743602954906,
+      "name": "아프리카동물병원",
+      "phone": "+8228338275",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 영등포구 대림동 979-3",
+      "id": 29,
+      "image": "https://lh5.googleusercontent.com/p/AF1QipP-RWc0c38_3lwCEcmO6rufJJ2NID3D_mvf9FzF=w426-h240-k-no",
+      "lat": 37.5689946950519,
+      "lng": 126.8246952448164,
+      "name": "아프리카동물병원",
+      "phone": "+8228338275",
+      "site": ""
+    },
+    {
+      "address": "서울특별시 은평구 구산동 1-1",
+      "id": 30,
+      "image": "https://geo0.ggpht.com/cbk?panoid=iyE6s1_6c8SwmgqnW4da9g&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=273.86536&pitch=0&thumbfov=100",
+      "lat": 37.61360972180961,
+      "lng": 126.9179073734584,
+      "name": "로얄동물병원",
+      "phone": "+8223540975",
+      "site": "http://www.royalamc.com"
+    }
+  ]
+}

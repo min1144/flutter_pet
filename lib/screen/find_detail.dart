@@ -71,25 +71,25 @@ class _FindDetailState extends State<FindDetail> {
                   '${animalArgs.colorCd} / ${Constants.changeSex(animalArgs.sexCd)}'),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView('나이', '${animalArgs.age}'),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '무게',
                 '${animalArgs.weight}',
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '중성화여부',
                 '${_getNeuter(animalArgs.age)}',
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '특징',
                 '${animalArgs.specialMark}',
@@ -117,21 +117,21 @@ class _FindDetailState extends State<FindDetail> {
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '보호 장소',
                 '${animalArgs.careAddr}',
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '보호소 연락처',
                 '${animalArgs.careTel}',
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '담당자',
                 '${animalArgs.chargeNm}',
@@ -139,7 +139,7 @@ class _FindDetailState extends State<FindDetail> {
             ),
             Padding(
               padding: EdgeInsets.only(
-                  left: 10.0, top: 10.0, right: 10.0, bottom: 20.0),
+                  left: 10.0, top: 10.0, right: 12.0, bottom: 20.0),
               child: AnimalDetailView(
                 '담당자 연락처',
                 '${animalArgs.officetel}',
@@ -159,28 +159,28 @@ class _FindDetailState extends State<FindDetail> {
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '발견장소',
                 '${animalArgs.happenPlace}',
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '공고번호',
                 '${animalArgs.noticeNo}',
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '공고기간',
                 '${Constants.appendDate(animalArgs.noticeSdt)} ~ ${Constants.appendDate(animalArgs.noticeEdt)}',
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(left: 10.0, top: 10.0, right: 10.0),
+              padding: EdgeInsets.only(left: 10.0, top: 12.0, right: 10.0),
               child: AnimalDetailView(
                 '관할기관',
                 '${animalArgs.orgNm}',

@@ -84,7 +84,7 @@ class _FindAnimalState extends State<FindAnimal> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          '${animal.kindCd} / $index',
+                          '${animal.kindCd}',
                           maxLines: 1,
                           overflow: TextOverflow.ellipsis,
                           style: Theme.of(context).textTheme.bodyText1,

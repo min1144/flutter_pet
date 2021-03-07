@@ -17,6 +17,7 @@ class AnimalDetailView extends StatelessWidget {
           alignment: Alignment.centerLeft,
           child: Text(title, style: TITLE_STYLE),
         ),
+        SizedBox(height: 5,),
         Align(
           alignment: Alignment.centerLeft,
           child: Text(content, style: CONTENT_STYLE),
